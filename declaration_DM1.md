@@ -1,7 +1,7 @@
 # Déclaration d'usage de l'IA — Devoir maison 1
 
 **Nom et prénom :** ADOUKO Bismark Wafik
-**Pseudo Kaggle :** wafikadouko
+**Pseudo Kaggle :** Wafik ADK07
 **Dépôt (lien) :** https://github.com/ADKfull-dev/devoir-maison-1
 **Rendu :** DM1
 **Date :** 18/10/2026
